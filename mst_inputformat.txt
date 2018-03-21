@@ -1,0 +1,47 @@
+Enter the number of vertices: 9
+edges will be considered if second vertex is more than first vertex for the purpose of reducing space. 
+enter the number of vertices connected to vertex 1: 2
+enter the vertices connected to vertex 1: 2
+enter the weight of this edge 1-2: 4
+enter the vertices connected to vertex 1: 8
+enter the weight of this edge 1-8: 8
+enter the number of vertices connected to vertex 2: 2
+enter the vertices connected to vertex 2: 8
+enter the weight of this edge 2-8: 11
+enter the vertices connected to vertex 2: 3
+enter the weight of this edge 2-3: 8
+enter the number of vertices connected to vertex 3: 3
+enter the vertices connected to vertex 3: 9
+enter the weight of this edge 3-9: 2
+enter the vertices connected to vertex 3: 6
+enter the weight of this edge 3-6: 4
+enter the vertices connected to vertex 3: 4
+enter the weight of this edge 3-4: 7
+enter the number of vertices connected to vertex 4: 2
+enter the vertices connected to vertex 4: 5
+enter the weight of this edge 4-5: 9
+enter the vertices connected to vertex 4: 6
+enter the weight of this edge 4-6: 14
+enter the number of vertices connected to vertex 5: 1
+enter the vertices connected to vertex 5: 6
+enter the weight of this edge 5-6: 10
+enter the number of vertices connected to vertex 6: 1
+enter the vertices connected to vertex 6: 7
+enter the weight of this edge 6-7: 2
+enter the number of vertices connected to vertex 7: 2
+enter the vertices connected to vertex 7: 8
+enter the weight of this edge 7-8: 1
+enter the vertices connected to vertex 7: 9
+enter the weight of this edge 7-9: 6
+enter the number of vertices connected to vertex 8: 1
+enter the vertices connected to vertex 8: 9
+enter the weight of this edge 8-9: 7
+enter the number of vertices connected to vertex 9: 0
+7-8: 1
+6-7: 2
+3-9: 2
+3-6: 4
+1-2: 4
+3-4: 7
+2-3: 8
+4-5: 9
